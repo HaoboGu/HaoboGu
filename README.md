@@ -1,6 +1,6 @@
 ### Hi👋, I'm Haobo, welcome to my github page!
 
-[![HaoboGu's GitHub stats](https://readme-status-bkpd.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=vue)](https://github.com/HaoboGu)
+[![HaoboGu's GitHub stats](https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=vue)](https://github.com/HaoboGu)
 <!--
 **HaoboGu/HaoboGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
