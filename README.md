@@ -1,6 +1,8 @@
 ### Hi👋, I'm Haobo, welcome to my github page!
 
 [![HaoboGu's GitHub stats](https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed)](https://github.com/HaoboGu)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 backup url: https://github-readme-status-dusky-ten.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed
 -->
