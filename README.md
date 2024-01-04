@@ -1,12 +1,11 @@
-<h2 align="center"> Hi👋, I'm Haobo, welcome to my github page! </h2>
-
-<p align="center">
+<!--<h2 align="center"> Hi👋, I'm Haobo, welcome to my github page! </h2>-->
+### Hi👋, I'm Haobo, welcome to my github page!
+-------
 <img href="https://github.com/HaoboGu" src="https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed" alt="github stats" /> 
-</p>
 
 -------
 
-📊 **Weekly development breakdown**
+#### 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
