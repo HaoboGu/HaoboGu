@@ -15,3 +15,12 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          IGNORED_LANGUAGES: INI
+          # Commit info
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: HaoboGu # optional
+          AUTHOR_EMAIL: haobogu@outlook.com # optional
