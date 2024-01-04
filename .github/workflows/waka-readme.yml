@@ -3,6 +3,8 @@ name: Waka Readme
 on:
   # for manual workflow trigger
   workflow_dispatch:
+  push:
+    branches: [main]
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
@@ -18,7 +20,7 @@ jobs:
           # Content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          IGNORED_LANGUAGES: INI
+          IGNORED_LANGUAGES: INI JSON
           # Commit info
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
