@@ -2,6 +2,15 @@
 
 [![HaoboGu's GitHub stats](https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed)](https://github.com/HaoboGu)
 <!--START_SECTION:waka-->
+
+```txt
+Python   2 mins          ████████████████▓░░░░░░░░   67.29 %
+Vue.js   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+INI      0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Rust     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 backup url: https://github-readme-status-dusky-ten.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed
