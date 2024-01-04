@@ -1,6 +1,12 @@
-### Hi👋, I'm Haobo, welcome to my github page!
+<h2 align="center"> Hi👋, I'm Haobo, welcome to my github page! </h2>
 
-[![HaoboGu's GitHub stats](https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed)](https://github.com/HaoboGu)
+<p align="center">
+<img href="https://github.com/HaoboGu" src="https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed" alt="github stats" /> 
+</p>
+
+-------
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
