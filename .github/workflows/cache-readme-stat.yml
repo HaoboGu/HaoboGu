@@ -21,11 +21,10 @@ jobs:
         mkdir -p assets
         curl 'https://readme-status-4voh.vercel.app/api?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed' -o assets/stats.svg
         curl 'https://readme-status-4voh.vercel.app/api/top-langs/?username=HaoboGu&count_private=true&show_icons=true&theme=transparent&border_color=2f80ed' -o assets/top-langs.svg
-
     - name: Push stats.svg
       run: |
-        git config user.name "HaoboGu"
-        git config user.email "haobogu@outlook.com"
+        git config user.name "GitHubActionBot"
+        git config user.email "action-bot@github.com"
         git add assets/stats.svg
         git add assets/top-langs.svg
         git commit -m "Update assets"
