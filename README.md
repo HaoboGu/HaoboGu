@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2024 - To: 15 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-Python       13 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   39.14 %
-Rust         10 hrs 33 mins  ███████▓░░░░░░░░░░░░░░░░░   30.40 %
-TOML         3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Markdown     2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Other        1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Python       13 hrs 57 mins  ██████████▒░░░░░░░░░░░░░░   41.13 %
+Rust         8 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+TOML         4 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+Markdown     2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Other        1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
