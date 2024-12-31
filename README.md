@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 23 December 2024 - To: 30 December 2024
 
-Rust              13 hrs 34 mins  ███████████████▓░░░░░░░░░   62.86 %
-TOML              3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-YAML              2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-Markdown          55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Other             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Rust              16 hrs 33 mins  ████████████████▒░░░░░░░░   65.14 %
+TOML              3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+YAML              2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Markdown          1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Other             1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
