@@ -10,13 +10,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Rust         1 hr 6 mins     ████████████████▓░░░░░░░░   66.37 %
-TOML         17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Python       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Rust    2 mins          █████████████████▓░░░░░░░   70.95 %
+Other   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.05 %
 ```
 
 <!--END_SECTION:waka-->
