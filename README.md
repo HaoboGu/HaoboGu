@@ -10,10 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-TOML   9 mins          ███████████████████░░░░░░   76.01 %
-Rust   2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+YAML   15 mins         █████████████░░░░░░░░░░░░   51.79 %
+TOML   10 mins         ████████▒░░░░░░░░░░░░░░░░   33.59 %
+Rust   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
