@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
 Rust         5 hrs 15 mins   █████████████▓░░░░░░░░░░░   54.14 %
 Python       2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
