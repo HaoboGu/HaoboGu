@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Rust              8 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   47.04 %
-TOML              2 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Python            2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Markdown          1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Rust              9 hrs 13 mins   ███████████████░░░░░░░░░░   59.80 %
+TOML              2 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.28 %
+Python            1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Other             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
