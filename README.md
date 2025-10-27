@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2025 - To: 25 October 2025
+From: 19 October 2025 - To: 26 October 2025
 
-Rust         9 hrs 45 mins   ████████████░░░░░░░░░░░░░   47.45 %
-MDX          2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Markdown     2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Python       1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Rust         9 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.44 %
+Markdown     3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+MDX          2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
+Python       1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
