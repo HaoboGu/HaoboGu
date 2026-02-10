@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">HaoboGu's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 1549, Total Commits in 2026 : 1549, Total PRs: 398, Total Issues: 220, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 1549, Total Commits in 2026 : 1549, Total PRs: 401, Total Issues: 220, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 96.86551689498538;
+        stroke-dashoffset: 96.8386847633345;
       }
     }
   
@@ -190,7 +190,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >398</text>
+      >401</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
