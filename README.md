@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-TOML          53 mins               ██████████▓░░░░░░░░░░░░░░   43.19 %
-Rust          25 mins               █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-Bash          15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Other         7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Rust       2 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
+TOML       0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
