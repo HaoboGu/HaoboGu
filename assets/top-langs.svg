@@ -82,7 +82,7 @@
     <svg data-testid="lang-items" x="25">
       <g transform="translate(0, 0)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">C</text>
-    <text x="215" y="34" class="lang-name">82.10%</text>
+    <text x="215" y="34" class="lang-name">82.09%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -91,14 +91,14 @@
           fill="#555555"
           rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
-          width="82.1%"
+          width="82.09%"
       >
       </rect>
     </svg>
   
   </g><g transform="translate(0, 40)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
-    <text x="215" y="34" class="lang-name">14.13%</text>
+    <text x="215" y="34" class="lang-name">14.14%</text>
     
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
@@ -107,7 +107,7 @@
           fill="#dea584"
           rx="5" ry="5" x="0" y="0"
           data-testid="lang-progress"
-          width="14.13%"
+          width="14.14%"
       >
       </rect>
     </svg>
