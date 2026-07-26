@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 18 July 2026 - To: 25 July 2026
 
-Rust            29 hrs 42 mins        ████████████████░░░░░░░░░   63.43 %
-Markdown        5 hrs 39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-Python          3 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-TOML            3 hrs 22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Other           1 hr 23 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Rust            30 hrs 8 mins         ███████████████▓░░░░░░░░░   62.41 %
+Python          6 hrs 7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Markdown        5 hrs 25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+TOML            2 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Other           1 hr 11 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
