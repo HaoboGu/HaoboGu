@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Markdown     9 hrs 33 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 %
-Rust         9 hrs                 ████████░░░░░░░░░░░░░░░░░   31.96 %
-Other        4 hrs 9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-TOML         2 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Git Config   50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Rust            9 hrs 21 mins         ████████░░░░░░░░░░░░░░░░░   31.57 %
+Markdown        9 hrs 7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.79 %
+Other           4 hrs 15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+TOML            2 hrs 27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+HTML            1 hr 57 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 ```
 
 <!--END_SECTION:waka-->
