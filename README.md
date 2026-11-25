@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2026 - To: 23 November 2026
+From: 17 November 2026 - To: 24 November 2026
 
-Other             10 hrs 27 mins        ████████▓░░░░░░░░░░░░░░░░   34.48 %
-Markdown          6 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
-Rust              5 hrs 39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-TOML              3 hrs 27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-KiCad Schematic   1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Other             9 hrs 7 mins          ██████████▒░░░░░░░░░░░░░░   41.41 %
+Rust              3 hrs 39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Markdown          3 hrs 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+TOML              2 hrs 38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+KiCad Schematic   1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
